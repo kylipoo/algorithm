@@ -1,0 +1,7 @@
+Given a graph with n nodes (1 ~ n)
+We need to do m operations, and there are 3 types of operations.
+1. C a b, connect a and b with an edge, a and b can be the same node.
+2. Q1 a b, ask if a and b are within the connected graph.
+3. Q2 a, how many nodes are in the connected graph of a.
+
+1<n, m < 10^5
