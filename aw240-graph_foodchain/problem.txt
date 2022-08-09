@@ -1,0 +1,25 @@
+There are 3 kinds of animals A, B, C, they form interesting circle.
+A eats B, B eats C, C eats A
+Now there are N animals, numbered 1~N
+Each animal is one of the kinds of A, B, C, but we don't know exactly which type of animal it is.
+Someone used two ways to describe the animals
+1. 1 X Y, means X and Y are same type
+2. 2 X Y, means X eats Y
+This person said K sentences, some of them are true, some of them are false;
+Please find out how many lies are total
+
+1<N<=50000,
+0<K<100000
+
+// sample input
+100 7
+1 101 1
+2 1 2
+2 2 3
+2 3 3
+1 1 3
+2 3 1
+1 5 5
+
+// sammple output
+3
