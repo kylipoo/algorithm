@@ -13,7 +13,6 @@ int find(int x) {
     }
 }
 int main() {
-    //input
     scanf("%d%d", &n, &m);
     for(int i=1; i<=n; i++) {
         p[i] = i;
