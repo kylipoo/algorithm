@@ -1,0 +1,34 @@
+Write a heap simulator for below operations:
+1. I x, insert a number x;
+2. PM, input the smallest number;
+3. DM, delete the smallest number in the heap.
+4. D k, delete kth inserted number.
+5. C k x, update kth number, make it x;
+
+After N operations, for any number 2 operation, output the smallest number.
+
+Input
+N (how many lines below)
+One of the 5 operations like I x, PM, DM, D k, C k x
+
+Output
+printout every PM, which is the smallest number
+
+Range
+1<=N<=10^5
+-10^9 <=x<=10^9
+
+Sample Input
+8
+I -10
+PM
+I -10
+D 1
+C 2 8
+I 6
+PM
+DM
+
+Sample output
+-10
+6
