@@ -9,5 +9,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw838_heap_down" "${PROJECT_SOURCE_DIR}/
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw841_simulate_heap" "${PROJECT_SOURCE_DIR}/aw841_simulate_heap/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw826_single_linkedlist" "${PROJECT_SOURCE_DIR}/aw826_single_linkedlist/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw840a_simulate_hashMap_linkedlist" "${PROJECT_SOURCE_DIR}/aw840a_simulate_hashMap_linkedlist/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw840b_simulate_hashMap_findOpenSpot" "${PROJECT_SOURCE_DIR}/aw840b_simulate_hashMap_findOpenSpot/output")
 
 

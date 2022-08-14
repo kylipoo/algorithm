@@ -1,7 +1,7 @@
 #include <iostream>
 #include <cstring>
 
-const int N = 1e5+5;
+const int N = 1e5+3;
 int h[N], e[N], ne[N], idx;
 
 using namespace std;
