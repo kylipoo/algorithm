@@ -1,0 +1,24 @@
+Implement a HashMap
+Support below operations:
+1. I x, insert number x;
+2. Q x, query if x is in the map
+
+Will do N operations and print out all the query result
+
+Input: Ix or Qx
+Output: if x is in the map, print "Yes", else print "No"
+
+1<=N<=10^5
+-10^9<=x<=10^9
+
+Sample Input:
+5
+I 1
+I 2
+I 3
+Q 2
+Q 5
+
+Sample Output:
+Yes
+No

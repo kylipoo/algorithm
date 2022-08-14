@@ -7,5 +7,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw837_graph_count_nodes" "${PROJECT_SOUR
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw240-graph_foodchain" "${PROJECT_SOURCE_DIR}/aw240-graph_foodchain/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw838_heap_down" "${PROJECT_SOURCE_DIR}/aw838_heap_down/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw841_simulate_heap" "${PROJECT_SOURCE_DIR}/aw841_simulate_heap/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw826_single_linkedlist" "${PROJECT_SOURCE_DIR}/aw826_single_linkedlist/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw840a_simulate_hashMap_linkedlist" "${PROJECT_SOURCE_DIR}/aw840a_simulate_hashMap_linkedlist/output")
 
 
