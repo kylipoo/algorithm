@@ -1,0 +1,27 @@
+Given a string with length n, give m queries. Every query has 4 integers, l1, r1, l1, r2.
+You need to decide [l1,r1] and [l2, r2] has the same string.
+
+The string only includes Letters(uppercase and lowercase) and digits.
+
+Input
+string length n and query times m
+the actual string
+the next m will be l1, r1, l2, r2 which is the queries range.
+
+Output
+If two strings are the same, print "Yes", otherwise print "No"
+
+Range
+1<=n, m<=10^5
+
+Sample Input
+8 3
+aabbaabb
+1 3 5 7
+1 3 6 8
+1 2 1 2
+
+Sample Output
+Yes
+No
+Yes
