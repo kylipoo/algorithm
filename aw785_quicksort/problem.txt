@@ -1,0 +1,19 @@
+Given an integer array length n
+Please use quick sort to sort in Ascending order the print in order
+
+Input
+line 1: number
+line 2: n integers
+
+Output
+sorted integers
+
+Range
+1<=n<=100000
+
+Sample Input:
+5
+3 1 2 4 5
+
+Sample output:
+1 2 3 4 5

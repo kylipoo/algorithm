@@ -11,5 +11,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw841_hash_string" "${PROJECT_SOURCE_DIR
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw826_single_linkedlist" "${PROJECT_SOURCE_DIR}/aw826_single_linkedlist/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw840a_simulate_hashMap_linkedlist" "${PROJECT_SOURCE_DIR}/aw840a_simulate_hashMap_linkedlist/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw840b_simulate_hashMap_findOpenSpot" "${PROJECT_SOURCE_DIR}/aw840b_simulate_hashMap_findOpenSpot/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw785_quicksort" "${PROJECT_SOURCE_DIR}/aw785_quicksort/output")
 
 
