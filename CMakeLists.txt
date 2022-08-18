@@ -16,5 +16,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw786_quickselect" "${PROJECT_SOURCE_DIR
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw787_mergeSort" "${PROJECT_SOURCE_DIR}/aw787_mergeSort/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw788_inversepair" "${PROJECT_SOURCE_DIR}/aw788_inversepair/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw789_bs_range" "${PROJECT_SOURCE_DIR}/aw789_bs_range/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw790_bs_floating" "${PROJECT_SOURCE_DIR}/aw790_bs_floating/output")
 
 

@@ -1,0 +1,16 @@
+Given a float number n, ask for the cube root
+
+Input
+n is the float number
+
+Output
+The answer (need to keep 6 digits after decimal)
+
+Range
+-10000 <=n <=10000
+
+Input
+1000.00
+
+Output
+10.000000
