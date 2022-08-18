@@ -1,0 +1,20 @@
+Given an integer array length n
+Please use merge sort to sort this array in ascending order
+
+Input
+line 1: n
+line 2: n integers
+
+Output
+integers in ascending order
+
+
+Range
+1<=n<=100000
+
+Sample Input:
+5
+3 1 2 4 5
+
+Sample output:
+1 2 3 4 5

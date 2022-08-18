@@ -1,0 +1,20 @@
+Given an integer array length n
+Please find out how many inverse pairs are there
+Definition of inverse pair: for the ith and jth element, if i<j and a[i]>a[j], it is inverse pair.
+
+Input
+n
+array of integers
+
+Output
+number of inverse pairs
+
+Range
+1<=n<=1000000
+
+Sample input:
+6
+2 3 4 5 6 1
+
+Output
+5

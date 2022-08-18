@@ -1,0 +1,28 @@
+Given an array with n length, and q queries
+For each query, return the start position and end position of the element k. (index start from 0)
+If the element doesn't exist in the array, return -1 -1
+
+Input
+n, q
+n integers
+query k
+
+OUtput
+start end
+
+Range
+1≤n≤100000
+1≤q≤10000
+1≤k≤10000
+
+Input sample:
+6 3
+1 2 2 3 3 4
+3
+4
+5
+
+Output sample:
+3 4
+5 5
+-1 -1
