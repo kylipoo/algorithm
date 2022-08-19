@@ -1,0 +1,18 @@
+Given two positive Integer, calculate the difference
+
+Input:
+integer 1
+integer 2
+
+output
+difference
+
+Range:
+1<= len <=10^6
+
+Input Sample
+32
+11
+
+Output
+21
