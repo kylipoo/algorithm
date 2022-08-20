@@ -23,5 +23,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw793_mult_two_numbers" "${PROJECT_SOURC
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw794_div_two_numbers" "${PROJECT_SOURCE_DIR}/aw794_div_two_numbers/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw795_prefix_sum" "${PROJECT_SOURCE_DIR}/aw795_prefix_sum/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw796_grid_sum" "${PROJECT_SOURCE_DIR}/aw796_grid_sum/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw797_array_of_difference" "${PROJECT_SOURCE_DIR}/aw797_array_of_difference/output")
 
 
