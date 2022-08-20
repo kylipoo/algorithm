@@ -1,0 +1,27 @@
+Given an array with length n, then input m queries, each query has l, r
+For each query, output the sum from l to r.
+
+Input:
+n, m
+n integers
+the next m lines contain l, r
+
+output
+m lines of the sum
+
+Range:
+1<= l <=r <=n
+1<=n, m<=100000
+-1000 <= array element value <=1000
+
+Input Sample
+5 3
+2 1 3 6 4
+1 2
+1 3
+2 4
+
+Output
+3
+6
+10
