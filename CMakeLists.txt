@@ -19,5 +19,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw789_bs_range" "${PROJECT_SOURCE_DIR}/a
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw790_bs_floating" "${PROJECT_SOURCE_DIR}/aw790_bs_floating/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw791_add_two_numbers" "${PROJECT_SOURCE_DIR}/aw791_add_two_numbers/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw792_substract_two_numbers" "${PROJECT_SOURCE_DIR}/aw792_substract_two_numbers/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw793_mult_two_numbers" "${PROJECT_SOURCE_DIR}/aw793_mult_two_numbers/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw794_div_two_numbers" "${PROJECT_SOURCE_DIR}/aw794_div_two_numbers/output")
 
 

@@ -1,0 +1,21 @@
+Given two positive Integer, calculate the division and remainer
+
+Input:
+integer A
+integer B
+
+output
+division result
+remainder
+
+Range:
+1<= len of A<=10^6
+0<=B<=10000
+
+Input Sample
+7
+2
+
+Output
+3
+1

@@ -1,0 +1,19 @@
+Given two positive Integer, calculate the multiplication
+
+Input:
+integer A
+integer B
+
+output
+product
+
+Range:
+1<= len of A<=10^6
+0<=B<=10000
+
+Input Sample
+2
+3
+
+Output
+6
