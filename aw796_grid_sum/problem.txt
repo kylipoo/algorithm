@@ -1,0 +1,30 @@
+Given a grid n x m, input q queries, each query contains x, y1, x2, y2, means the coordinate of the grid
+
+Input:
+n, m, q
+n lines with grid numbers
+q lines with the queries
+
+output
+result of the queries
+
+Range:
+1<= n, m<=1000
+1<=q<=200000
+1<=x1<=x2<=n,
+1<=y1<=y2<=m,
+-1000 <= array element value <=1000
+
+Input Sample
+3 4 3
+1 7 2 4
+3 6 2 8
+2 1 2 3
+1 1 2 2
+2 1 3 4
+1 3 3 4
+
+Output
+17
+27
+21

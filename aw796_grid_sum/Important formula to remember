@@ -1,0 +1,2 @@
+s[i][j] calculate: s[i][j] = s[i-1][j] + s[i][j-1] - s[i-1][j-1] + a[i][j];
+sum from (x1,y1) to (x2, y2): s[x2][y2] - s[x1-1][y2] - s[x2][y1-1] + s[x1-1][y1-1]
