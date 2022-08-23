@@ -1,0 +1,19 @@
+Given an array of integer with length n, find the longest subarray that doesn't have repeated number
+
+Input:
+n
+n integers
+
+Output:
+the longest length of non repeat subarray
+
+Range:
+1<=n<=10^5
+
+Sample input:
+5
+1 2 2 3 5
+
+Sample Output:
+3
+

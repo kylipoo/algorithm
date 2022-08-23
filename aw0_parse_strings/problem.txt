@@ -1,0 +1,10 @@
+Input: one line with strings seperated by space
+Output: all the strings
+
+Sample Input:
+abc def ghi
+
+Sample Output:
+abc
+def
+ghi
