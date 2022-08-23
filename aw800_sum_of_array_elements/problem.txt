@@ -1,0 +1,21 @@
+Given two ascending array A and B, a target number x.
+print out (i, j) when A[i]+B[j]=x
+
+Input:
+n, m, x (n is length of A, m is length of B, x is the target value)
+n integers for A array
+m integers for B array
+
+Output
+i j (index of A and B that makes A[i] + B[j] = x)
+
+Sample Input:
+4 5 6
+1 2 4 7
+3 4 6 8 9
+
+Sample output:
+1 1
+
+
+

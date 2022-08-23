@@ -27,5 +27,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw797_array_of_difference" "${PROJECT_SO
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw798_grid_of_difference" "${PROJECT_SOURCE_DIR}/aw798_grid_of_difference/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw0_parse_strings" "${PROJECT_SOURCE_DIR}/aw0_parse_strings/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw799_longest_norepeat_subarray" "${PROJECT_SOURCE_DIR}/aw799_longest_norepeat_subarray/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw800_sum_of_array_elements" "${PROJECT_SOURCE_DIR}/aw800_sum_of_array_elements/output")
 
 
