@@ -1,0 +1,22 @@
+Given an array length n, find out ones within each element when it is in binary (0/1)
+Input
+n
+n integers
+
+output
+numbers of ones
+
+Range
+1<=n<=100000
+
+Input sample
+5
+1 2 3 4 5
+
+Output sample
+1 1 2 1 2
+
+
+
+
+
