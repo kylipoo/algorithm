@@ -1,0 +1,14 @@
+Given n intervals [l, r], merge all the intersections
+
+sample: [1, 3] and [2, 6] becomes [1, 6]
+
+Sample input:
+5
+1 2
+2 4
+5 6
+7 8
+7 9
+
+Sample output:
+3
