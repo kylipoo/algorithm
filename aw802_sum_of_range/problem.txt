@@ -1,0 +1,31 @@
+There is a very long array, each position is 0.
+Now we will do n operations, each operation will add c on one of the positions
+Then we will do m queries. each query contains l and r, you need to find out the sum if [l, r]
+Input
+n, m (n is lines for add ops, m is lines for queries)
+n lines each with x and c
+m lines each with l and r
+Output
+m lines with the sum
+
+Range
+−10^9≤x≤10^9,
+1≤n,m≤10^5,
+−10^9≤l≤r≤10^9,
+−10000≤c≤10000
+
+Input sample
+3 3
+1 2
+3 6
+7 5
+1 3
+4 6
+7 8
+
+Output sample
+8
+0
+5
+
+
