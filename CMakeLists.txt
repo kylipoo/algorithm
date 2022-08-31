@@ -32,5 +32,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw2816_find_subarray" "${PROJECT_SOURCE_
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw801_find_one_in_binary" "${PROJECT_SOURCE_DIR}/aw801_find_one_in_binary/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw802_sum_of_range" "${PROJECT_SOURCE_DIR}/aw802_sum_of_range/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw803_merge_intervals" "${PROJECT_SOURCE_DIR}/aw803_merge_intervals/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw827_double_linkedlist" "${PROJECT_SOURCE_DIR}/aw827_double_linkedlist/output")
 
 

@@ -6,7 +6,7 @@ Implement a single linkedlist. It supports 3 operations:
 Input
 1. H x, insert a number at the head
 2. D k, insert the number after kth
-3. I k x, insert a umber x after kth. k>0
+3. I k x, insert a number x after kth. k>0
 
 output
 the numbers of the list

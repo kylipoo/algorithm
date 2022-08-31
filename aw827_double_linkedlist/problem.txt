@@ -1,0 +1,34 @@
+Implement a double linkedlist. It supports 5 operations:
+1. Insert a number at the far left node;
+2. Insert a number at the far right node;
+3. delete the number after k-1th.
+4. Insert the number left of k-1th number.
+5. Insert the number right of k-1th number.
+
+Input
+L x，Insert a number x at the far left node.
+R x，Insert a number x at the far right node.
+D k，delete the number after k-1th.
+IL k x，Insert the number left of k1th number.
+IR k x，Insert the number right of kth number.
+
+output
+the numbers of the list
+
+1<=M<=100000
+
+Sample input:
+10
+R 7
+D 1
+L 3
+IL 2 10
+D 3
+IL 2 7
+L 8
+R 9
+IL 4 7
+IR 2 2
+
+Sample output:
+8 7 7 3 2 9
