@@ -1,0 +1,27 @@
+Implement a queue, it is initially empty. There are 4 operations:
+1. push x - put a number at the end of the queue
+2. pop - pop out a number from the head
+3. empty - tell if a queue is empty
+4. query - get the first element of the queue
+
+Range
+1<=M<=100000
+
+Sample input:
+10
+push 6
+empty
+query
+pop
+empty
+push 3
+push 4
+pop
+query
+push 6
+
+Sample output:
+NO
+6
+YES
+4
