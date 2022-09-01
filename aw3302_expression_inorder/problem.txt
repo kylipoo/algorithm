@@ -1,0 +1,10 @@
+Calculate an expression
+
+Range
+1<=M<=100000
+
+Sample input:
+(2+2)*(1+1)
+
+Sample output:
+8

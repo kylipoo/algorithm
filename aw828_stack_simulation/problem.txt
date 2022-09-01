@@ -1,0 +1,28 @@
+Implement a stack, it is initially empty. There are 4 operations:
+1. push x - put a number on top of the stack
+2. pop - pop out a number from stack
+3. empty - tell if a stack is empty
+4. query - get the top element
+
+Range
+1<=M<=100000
+
+Sample input:
+10
+push 5
+query
+push 6
+pop
+query
+pop
+empty
+push 4
+query
+empty
+
+Sample output:
+5
+5
+YES
+4
+NO
