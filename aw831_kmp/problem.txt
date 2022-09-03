@@ -1,0 +1,18 @@
+Given a string S, and another string P, only with letters and numbers
+
+P appears in S as substring for several times
+
+print out P appears in S start and end index
+
+Range
+1≤N≤105
+1≤M≤106
+
+Sample input
+3
+aba
+5
+ababa
+
+Sample output
+0 2
