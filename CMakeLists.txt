@@ -40,5 +40,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw831_kmp" "${PROJECT_SOURCE_DIR}/aw831_
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw835_trie" "${PROJECT_SOURCE_DIR}/aw835_trie/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw154_slide_window_monotonic_queue" "${PROJECT_SOURCE_DIR}/aw154_slide_window_monotonic_queue/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw3302_expression_inorder" "${PROJECT_SOURCE_DIR}/aw3302_expression_inorder/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw143_trie_xor_pair" "${PROJECT_SOURCE_DIR}/aw143_trie_xor_pair/output")
 
 

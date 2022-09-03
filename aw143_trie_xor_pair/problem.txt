@@ -1,0 +1,13 @@
+Biggest pair of xor result
+Given N integer A1, A2, ..., An, pick any of two do XOR, print out the biggest result.
+
+Range:
+1≤N≤10^5,
+0≤Ai<2^31
+
+Input:
+3
+1 2 3
+
+Output:
+3
