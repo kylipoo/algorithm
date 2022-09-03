@@ -1,0 +1,18 @@
+Maintain a trie, support two operations:
+1. I x insert x in the trie
+2. Q x query how many times the string appears in the trie
+
+Range:
+1≤N≤2∗10^4
+Sample input:
+5
+I abc
+Q abc
+Q ab
+I ab
+Q ab
+
+Sample output
+1
+0
+1
