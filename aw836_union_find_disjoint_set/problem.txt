@@ -1,0 +1,21 @@
+Given n numbers, 1~n, at first each number belongs to its own set.
+
+Now we will do m operations:
+1 M a b, union a set and b set, if they are already in the same set, do nothing.
+2 Q a b, find out if a and b are in the same set.
+
+Range
+1≤n,m≤10^5
+
+Sample input:
+4 5
+M 1 2
+M 3 4
+Q 1 2
+Q 1 3
+Q 3 4
+
+Sample output:
+Yes
+No
+Yes
