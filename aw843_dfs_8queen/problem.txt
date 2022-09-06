@@ -1,0 +1,18 @@
+n queens on nXn board, make sure each line has one queen and the queen won't conflict with same line, same col, diagonally.
+
+constraints
+1<=n<=9
+
+Sample input:
+4
+
+Sample output:
+.Q..
+...Q
+Q...
+..Q.
+
+..Q.
+Q...
+...Q
+.Q..

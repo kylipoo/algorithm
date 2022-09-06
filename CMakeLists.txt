@@ -43,6 +43,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw154_slide_window_monotonic_queue" "${P
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw3302_expression_inorder" "${PROJECT_SOURCE_DIR}/aw3302_expression_inorder/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw143_trie_xor_pair" "${PROJECT_SOURCE_DIR}/aw143_trie_xor_pair/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/lc214_hash_string_shortest_palindrome" "${PROJECT_SOURCE_DIR}/lc214_hash_string_shortest_palindrome/output")
-add_subdirectory("${PROJECT_SOURCE_DIR}/aw842_dfs" "${PROJECT_SOURCE_DIR}/aw842_dfs/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw843_dfs_8queen" "${PROJECT_SOURCE_DIR}/aw843_dfs_8queen/output")
 
 
