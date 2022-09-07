@@ -1,0 +1,15 @@
+a 3 by 3 2d array made with number 1~8 and an X, for example:
+1 2 3
+X 4 6
+7 5 8
+
+swap x to its up, down, left or right so it will eventually becomes:
+1 2 4
+4 5 6
+7 8 X
+
+Sample input:
+2 3 4 1 5 x 7 6 8
+
+Sample output:
+19
