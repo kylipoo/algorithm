@@ -1,0 +1,17 @@
+2D array nXm, if the value is 0 means open space, 1 means block.
+one person starts from upper left corner, each step he can move up, down, left right. what is the minimal steps
+needed to move to bottom right corner.
+
+constraints:
+1≤n,m≤100
+
+Sample input:
+5 5
+0 1 0 0 0
+0 1 0 1 0
+0 0 0 0 0
+0 1 1 1 0
+0 0 0 1 0
+
+Output:
+8
