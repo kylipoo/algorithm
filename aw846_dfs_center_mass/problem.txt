@@ -1,0 +1,19 @@
+mass center of the tree
+Description, check the attached image in the folder
+
+Constraints:
+1≤n≤10^5
+
+Sample input:
+9
+1 2
+1 7
+1 4
+2 8
+2 5
+4 3
+3 9
+4 6
+
+Sample output:
+4
