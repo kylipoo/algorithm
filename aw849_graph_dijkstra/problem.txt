@@ -1,0 +1,17 @@
+An one way graph has n nodes and m edges. the node number from 1 ~ n, the graph might have circle.
+Printout shortest distance from 1 to n
+
+For what is topo look at the notes in the folder
+
+constraints
+1≤n≤500,
+1≤m≤105,
+
+Sample input:
+3 3
+1 2 2
+2 3 1
+1 3 4
+
+Sample output:
+3
