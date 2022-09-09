@@ -48,5 +48,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw844_bfs_maze" "${PROJECT_SOURCE_DIR}/a
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw845_bfs_8number_game" "${PROJECT_SOURCE_DIR}/aw845_bfs_8number_game/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw846_dfs_center_mass" "${PROJECT_SOURCE_DIR}/aw846_dfs_center_mass/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw847_bfs_shortest_path" "${PROJECT_SOURCE_DIR}/aw847_bfs_shortest_path/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw848_bfs_topological_sequence" "${PROJECT_SOURCE_DIR}/aw848_bfs_topological_sequence/output")
 
 
