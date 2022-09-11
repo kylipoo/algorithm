@@ -1,0 +1,21 @@
+An one way graph has n nodes and m edges. the node number from 1 ~ n, the graph might have circle. and the edge can have negative weight
+Printout shortest distance from 1 to n, the maximum edges can use is k. If can't find, print impossible
+
+Input:
+n nodes, m edges
+
+Ouput
+Yes if exists negative weight circle, no if not exist
+
+constraints
+1≤n≤2000 ,
+1≤m≤10000,
+
+Sample input:
+3 3
+1 2 -1
+2 3 4
+3 1 -4
+
+Sample output:
+Yes

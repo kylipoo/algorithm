@@ -52,5 +52,8 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw848_bfs_topological_sequence" "${PROJE
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw849_graph_dijkstra" "${PROJECT_SOURCE_DIR}/aw849_graph_dijkstra/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw850_graph_dijkstra_priority_queue" "${PROJECT_SOURCE_DIR}/aw850_graph_dijkstra_priority_queue/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw853_bellman_ford_shortest_path" "${PROJECT_SOURCE_DIR}/aw853_bellman_ford_shortest_path/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw851_spfa_shortest_path" "${PROJECT_SOURCE_DIR}/aw851_spfa_shortest_path/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw852_spfa_negative_circle_exist" "${PROJECT_SOURCE_DIR}/aw852_spfa_negative_circle_exist/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw854_floyed_shortest_path" "${PROJECT_SOURCE_DIR}/aw854_floyed_shortest_path/output")
 
 

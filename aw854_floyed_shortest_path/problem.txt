@@ -1,0 +1,20 @@
+An one way graph has n nodes and m edges. the node number from 1 ~ n, the graph might have circle. and the edge can have negative weight
+
+Give k queries, each query contains x and y, means query the shortest path from x to y. If it doesn't exist, print out "impossible".
+
+constraints
+1≤n≤200,
+1≤k≤n^2
+1≤m≤20000,
+
+Sample input:
+3 3 2
+1 2 1
+2 3 2
+1 3 1
+2 1
+1 3
+
+Sample output:
+impossible
+1
