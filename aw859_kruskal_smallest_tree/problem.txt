@@ -1,0 +1,18 @@
+Given a no direction graph with n nodes and m edges. It might contain duplicate edges and self circle. The edge weight can be negative.
+
+Find out the smallest weight sum of the tree made up by the n nodes. If it is impossible, print out "impossible".
+
+constraints:
+1≤n≤10^5 ,
+1≤m≤2∗10^5,
+
+Sample Input:
+4 5
+1 2 1
+1 3 2
+1 4 3
+2 3 2
+3 4 4
+
+Sample output
+6

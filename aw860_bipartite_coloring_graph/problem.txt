@@ -1,0 +1,17 @@
+Given a no direction graph with n nodes and m edges. It might contain duplicate edges and self circle.
+
+Find out if this graph is Bipartite graph, if it is Bipartite, print out "Yes", otherwise print out "No"
+
+constraints:
+1≤n≤10^5 ,
+1≤m≤10^5,
+
+Sample Input:
+4 4
+1 3
+1 4
+2 3
+2 4
+
+Sample output
+Yes

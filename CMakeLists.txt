@@ -54,6 +54,8 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw850_graph_dijkstra_priority_queue" "${
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw853_bellman_ford_shortest_path" "${PROJECT_SOURCE_DIR}/aw853_bellman_ford_shortest_path/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw851_spfa_shortest_path" "${PROJECT_SOURCE_DIR}/aw851_spfa_shortest_path/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw852_spfa_negative_circle_exist" "${PROJECT_SOURCE_DIR}/aw852_spfa_negative_circle_exist/output")
-add_subdirectory("${PROJECT_SOURCE_DIR}/aw854_floyed_shortest_path" "${PROJECT_SOURCE_DIR}/aw854_floyed_shortest_path/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw858_prim_find_shortest_weight_tree" "${PROJECT_SOURCE_DIR}/aw858_prim_find_shortest_weight_tree/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw859_kruskal_smallest_tree" "${PROJECT_SOURCE_DIR}/aw859_kruskal_smallest_tree/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw860_bipartite_coloring_graph" "${PROJECT_SOURCE_DIR}/aw860_bipartite_coloring_graph/output")
 
 
