@@ -1,0 +1,21 @@
+Given n integers ai, find out if each number is prime number
+
+Input:
+n
+n numbers
+
+Output:
+"Yes" if is prime, else "No".
+
+constraints:
+1≤n≤100 ,
+1≤ai≤2^31−1
+
+Sample input:
+2
+2
+6
+
+Sample output:
+Yes
+No
