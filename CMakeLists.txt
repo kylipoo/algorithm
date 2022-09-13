@@ -59,5 +59,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw859_kruskal_smallest_tree" "${PROJECT_
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw860_bipartite_coloring_graph" "${PROJECT_SOURCE_DIR}/aw860_bipartite_coloring_graph/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw861_hungarian_biggest_match_number" "${PROJECT_SOURCE_DIR}/aw861_hungarian_biggest_match_number/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw866_is_prime" "${PROJECT_SOURCE_DIR}/aw866_is_prime/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw867_prime_factor" "${PROJECT_SOURCE_DIR}/aw867_prime_factor/output")
 
 
