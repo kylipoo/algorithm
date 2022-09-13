@@ -57,5 +57,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw852_spfa_negative_circle_exist" "${PRO
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw858_prim_find_shortest_weight_tree" "${PROJECT_SOURCE_DIR}/aw858_prim_find_shortest_weight_tree/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw859_kruskal_smallest_tree" "${PROJECT_SOURCE_DIR}/aw859_kruskal_smallest_tree/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw860_bipartite_coloring_graph" "${PROJECT_SOURCE_DIR}/aw860_bipartite_coloring_graph/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw861_hungarian_biggest_match_number" "${PROJECT_SOURCE_DIR}/aw861_hungarian_biggest_match_number/output")
 
 

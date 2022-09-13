@@ -1,0 +1,26 @@
+Given a bipartite graph, left side has 1-n1 nodes, right side has 1-n2 nodes, total m edges.
+It makes sure that the two nodes of the edge won't be in the same side.
+Find out the biggest match numbers from left to right
+
+Input:
+n1, n2, m
+m lines with u, v
+
+Output:
+The biggest match numbers
+
+Constraints:
+1≤n1,n2≤500 ,
+1≤u≤n1,
+1≤v≤n2,
+1≤m≤10^5
+
+Sample input:
+2 2 4
+1 1
+1 2
+2 1
+2 2
+
+Sample output:
+2
