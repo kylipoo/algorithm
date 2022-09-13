@@ -1,0 +1,14 @@
+Given an integer n, find the prime numbers in n
+Sample input:
+n
+Sample output:
+count of the prime numbers
+
+constraints:
+1≤n≤10^ 6
+
+Sample input:
+8
+
+Sample output:
+4
