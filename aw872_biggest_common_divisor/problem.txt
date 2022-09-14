@@ -1,0 +1,14 @@
+Given n pairs of integer a, b, print out the biggest common divosor of each pair
+
+constraints:
+1≤n≤10^5 ,
+1≤ai,bi≤2×10^9
+
+Sample input:
+2
+3 6
+4 6
+
+Sample output:
+3
+2
