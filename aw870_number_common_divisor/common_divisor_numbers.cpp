@@ -3,7 +3,7 @@
 #include <unordered_map>
 
 using namespace std;
-const int N = 110, mod = 10^9+7;
+const int N = 110, mod = 1e9+7;
 typedef long long LL;
 unordered_map<int, int> primes;
 
