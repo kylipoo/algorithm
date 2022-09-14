@@ -62,5 +62,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw866_is_prime" "${PROJECT_SOURCE_DIR}/a
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw867_prime_factor" "${PROJECT_SOURCE_DIR}/aw867_prime_factor/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw868_filter_prime_factors" "${PROJECT_SOURCE_DIR}/aw868_filter_prime_factors/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw869_common_divisor" "${PROJECT_SOURCE_DIR}/aw869_common_divisor/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw870_number_common_divisor" "${PROJECT_SOURCE_DIR}/aw870_number_common_divisor/output")
 
 
