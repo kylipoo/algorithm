@@ -1,0 +1,23 @@
+Given n integers ai, for every ai, print out all its common divisors in ascending order.
+Input:
+n
+a1
+a2
+...
+ai
+
+output
+common divisor
+
+constraints
+1≤n≤100 ,
+2≤ai≤2×10^9
+
+Sample input:
+2
+6
+8
+
+Sample output:
+1 2 3 6
+1 2 4 8

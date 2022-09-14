@@ -61,5 +61,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw861_hungarian_biggest_match_number" "$
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw866_is_prime" "${PROJECT_SOURCE_DIR}/aw866_is_prime/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw867_prime_factor" "${PROJECT_SOURCE_DIR}/aw867_prime_factor/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw868_filter_prime_factors" "${PROJECT_SOURCE_DIR}/aw868_filter_prime_factors/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw869_common_divisor" "${PROJECT_SOURCE_DIR}/aw869_common_divisor/output")
 
 
