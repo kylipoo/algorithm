@@ -1,0 +1,17 @@
+Given n integers a, p, p is prime numbers. a/b≡a×x(mod m)， x is the inverse of b， call b^−1(mod m).
+Print out b^−1(mod m). If can't find then print out "impossible"
+
+constraints:
+1≤n≤10^5 ,
+1≤ai,pi≤2∗10^9
+
+Sample input:
+3
+4 3
+8 5
+6 3
+
+Sample output:
+1
+2
+impossible
