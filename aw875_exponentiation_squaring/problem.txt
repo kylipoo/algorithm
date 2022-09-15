@@ -1,0 +1,15 @@
+Given n integers, a,b,p， Find value of a^b mod p
+
+
+constraints:
+1≤n≤100000 ,
+1≤ai,bi,pi≤2×10^9
+
+Sample input:
+2
+3 2 5
+4 3 9
+
+Sample output:
+4
+1

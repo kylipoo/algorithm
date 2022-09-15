@@ -67,5 +67,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw871_sum_common_divisors" "${PROJECT_SO
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw872_biggest_common_divisor" "${PROJECT_SOURCE_DIR}/aw872_biggest_common_divisor/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw873_totient_function" "${PROJECT_SOURCE_DIR}/aw873_totient_function/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw874_euler_function_filter" "${PROJECT_SOURCE_DIR}/aw874_euler_function_filter/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw875_exponentiation_squaring" "${PROJECT_SOURCE_DIR}/aw875_exponentiation_squaring/output")
 
 
