@@ -1,0 +1,14 @@
+Given n pairs of integers a, b, find out x, y make it ax+by=gcd(a, b)
+
+Constraints:
+1≤n≤10^5 ,
+1≤ai,bi≤2×10^9
+
+Sample input:
+2
+4 6
+8 18
+
+Sample output:
+-1 1
+-2 1
