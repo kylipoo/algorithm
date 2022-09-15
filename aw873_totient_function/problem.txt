@@ -1,0 +1,17 @@
+Given n integers, find out each integer's totient function
+ϕ(N)  = N×(p1−1/p1)×(p2−1/p2)×…×(pm−1/pm)
+
+constraints:
+1≤n≤10^5 ,
+1≤ai,bi≤2×10^9
+
+Sample input:
+3
+3
+6
+8
+
+Sample output:
+2
+2
+4
