@@ -1,0 +1,14 @@
+Given n groups of integers a, b, m, find out x, a×x≡bi(mod m). If no answers print out impossible
+
+Constraints:
+1≤n≤10^5 ,
+1≤ai,bi≤2×10^9
+
+Sample input:
+2
+2 3 6
+4 3 5
+
+Sample output:
+impossible
+-3

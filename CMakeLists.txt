@@ -70,5 +70,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw874_euler_function_filter" "${PROJECT_
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw875_exponentiation_squaring" "${PROJECT_SOURCE_DIR}/aw875_exponentiation_squaring/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw876_exponentiation_squaring_inverse" "${PROJECT_SOURCE_DIR}/aw876_exponentiation_squaring_inverse/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw877_euclidean_expand_x_y" "${PROJECT_SOURCE_DIR}/aw877_euclidean_expand_x_y/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw878_congruence_equation" "${PROJECT_SOURCE_DIR}/aw878_congruence_equation/output")
 
 
