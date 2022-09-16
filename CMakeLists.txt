@@ -71,5 +71,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw875_exponentiation_squaring" "${PROJEC
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw876_exponentiation_squaring_inverse" "${PROJECT_SOURCE_DIR}/aw876_exponentiation_squaring_inverse/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw877_euclidean_expand_x_y" "${PROJECT_SOURCE_DIR}/aw877_euclidean_expand_x_y/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw878_congruence_equation" "${PROJECT_SOURCE_DIR}/aw878_congruence_equation/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw885_combination1" "${PROJECT_SOURCE_DIR}/aw885_combination1/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw886_combination2" "${PROJECT_SOURCE_DIR}/aw886_combination2/output")
 
 

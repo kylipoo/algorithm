@@ -1,0 +1,16 @@
+Combination bCa mod(10^9+7)
+
+Constraints:
+1≤n≤10000 ,
+1≤b≤a≤2000
+
+Sample input:
+3
+3 1
+5 3
+2 2
+
+Sample output:
+3
+10
+1
