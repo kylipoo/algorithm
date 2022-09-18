@@ -1,0 +1,22 @@
+Given n 0 and n 1，the will be arranged in a sequence with 2n. How many combinations are there to make the prefix 0 >=1.
+For example, given 3 0s and 3 1s, the combinations that will meet the requirement are:
+000111
+001101
+001011
+010011
+010101
+
+The answer will mod 10^9+7.
+
+Input
+n
+
+Output
+answer
+
+Constraints
+1≤n≤10^5
+Input sample
+3
+Output sample
+5
