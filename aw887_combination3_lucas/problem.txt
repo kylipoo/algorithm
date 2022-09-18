@@ -1,0 +1,17 @@
+Combination C(a, b) mod p
+
+Constraints:
+1≤n≤20 ,
+1≤b≤a≤10^18,
+1≤p≤10^5,
+
+Sample input:
+3
+5 3 7
+3 1 5
+6 4 13
+
+Sample output:
+3
+3
+2

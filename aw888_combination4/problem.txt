@@ -1,0 +1,10 @@
+Combination C(a, b) value.
+
+Constraints:
+1≤b≤a≤5000
+
+Sample input:
+5 3
+
+Sample output:
+10

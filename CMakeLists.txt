@@ -73,5 +73,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw877_euclidean_expand_x_y" "${PROJECT_S
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw878_congruence_equation" "${PROJECT_SOURCE_DIR}/aw878_congruence_equation/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw885_combination1" "${PROJECT_SOURCE_DIR}/aw885_combination1/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw886_combination2" "${PROJECT_SOURCE_DIR}/aw886_combination2/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw887_combination3_lucas" "${PROJECT_SOURCE_DIR}/aw887_combination3_lucas/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw888_combination4" "${PROJECT_SOURCE_DIR}/aw888_combination4/output")
 
 
