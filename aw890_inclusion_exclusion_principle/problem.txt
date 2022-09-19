@@ -1,0 +1,21 @@
+Given an integer n and m different prime numbers p1,p2,…,pm.
+
+Find out how many integers are there in  1∼n which can be divided by at least one of p1,p2,…,pm
+
+Input
+ n  m
+ m prime integers
+
+Output
+numbers that meets the requirement
+
+constraints
+1≤m≤16,
+1≤n,pi≤10^9
+
+Input sample:
+10 2
+2 3
+
+Output sample:
+7
