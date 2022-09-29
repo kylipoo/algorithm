@@ -1,0 +1,31 @@
+In a R x C ski grid, from any start point i, j, the person can ski up, down, left right if the neighbor points values are
+lower than the i, j value.
+For example:
+1  2  3  4 5
+
+16 17 18 19 6
+
+15 24 25 20 7
+
+14 23 22 21 8
+
+13 12 11 10 9
+
+One path can be 24−17−2−1, and the longest path is 25−24−23−…−3−2−1 ，it passes 25 points
+
+Given a grid, find out the longest path.
+
+constraints:
+1≤R,C≤300 ,
+0≤N≤10000
+
+Sample input:
+5 5
+1 2 3 4 5
+16 17 18 19 6
+15 24 25 20 7
+14 23 22 21 8
+13 12 11 10 9
+
+Sample output:
+25

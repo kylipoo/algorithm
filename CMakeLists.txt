@@ -77,5 +77,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw887_combination3_lucas" "${PROJECT_SOU
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw888_combination4" "${PROJECT_SOURCE_DIR}/aw888_combination4/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw889_catalan_number" "${PROJECT_SOURCE_DIR}/aw889_catalan_number/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw890_inclusion_exclusion_principle" "${PROJECT_SOURCE_DIR}/aw890_inclusion_exclusion_principle/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw901_dp_ski" "${PROJECT_SOURCE_DIR}/aw901_dp_ski/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw905_greedy_intervals" "${PROJECT_SOURCE_DIR}/aw905_greedy_intervals/output")
 
 
