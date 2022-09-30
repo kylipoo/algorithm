@@ -80,5 +80,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw890_inclusion_exclusion_principle" "${
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw901_dp_ski" "${PROJECT_SOURCE_DIR}/aw901_dp_ski/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw905_greedy_intervals" "${PROJECT_SOURCE_DIR}/aw905_greedy_intervals/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw906_dp_group_intervals" "${PROJECT_SOURCE_DIR}/aw906_dp_group_intervals/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit" "${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit/output")
 
 

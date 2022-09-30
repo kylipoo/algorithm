@@ -1,0 +1,22 @@
+In a garden, Dave picked all the fruits and put them in different groups by type.
+Then Dave decided to merge all of them into one group.
+Every merge takes some effort, the effort needed is equal to the sum of the fruit weights of the two groups.
+After n-1 merge, there will be one group.
+Dave's effort number equals to the sum of all the merge effort.
+Given each fruit weight is 1, given fruit numbers and types, find a way to make Dave use least effort to merge
+
+For example there are 3 fruits: 1，2，9
+Dave can merge 1 and 2 in to group 3, effort will be 3
+Then the new group 3 merge with group 9 the total effort will be 12.
+Total effort: 3+12=15。
+15 is the smallest effort value
+
+constraints:
+1≤n≤10000,
+1≤ai≤20000
+
+Sample input:
+3 
+1 2 9 
+Sample output:
+15
