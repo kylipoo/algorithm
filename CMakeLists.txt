@@ -82,5 +82,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw905_greedy_intervals" "${PROJECT_SOURC
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw906_dp_group_intervals" "${PROJECT_SOURCE_DIR}/aw906_dp_group_intervals/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw907_dp_interval_coverage" "${PROJECT_SOURCE_DIR}/aw907_dp_interval_coverage/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit" "${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw913_dp_wait_in_line" "${PROJECT_SOURCE_DIR}/aw913_dp_wait_in_line/output")
 
 

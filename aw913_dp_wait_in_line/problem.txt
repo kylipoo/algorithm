@@ -1,0 +1,19 @@
+n persons are waiting in line to fill the bucket, the ith person fill time is ti, how to arrange them so the total time is the least
+
+Input
+n
+line of persons
+
+Output
+sum of time
+
+constraints
+1≤n≤10^5,
+1≤ti≤10^4
+
+Sample input:
+7
+3 6 1 4 2 5 7
+
+Sample output:
+56
