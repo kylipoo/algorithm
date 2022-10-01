@@ -79,9 +79,10 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw889_catalan_number" "${PROJECT_SOURCE_
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw890_inclusion_exclusion_principle" "${PROJECT_SOURCE_DIR}/aw890_inclusion_exclusion_principle/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw901_dp_ski" "${PROJECT_SOURCE_DIR}/aw901_dp_ski/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw905_greedy_intervals" "${PROJECT_SOURCE_DIR}/aw905_greedy_intervals/output")
-add_subdirectory("${PROJECT_SOURCE_DIR}/aw906_dp_group_intervals" "${PROJECT_SOURCE_DIR}/aw906_dp_group_intervals/output")
-add_subdirectory("${PROJECT_SOURCE_DIR}/aw907_dp_interval_coverage" "${PROJECT_SOURCE_DIR}/aw907_dp_interval_coverage/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw906_greedy_group_intervals" "${PROJECT_SOURCE_DIR}/aw906_greedy_group_intervals/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw907_greedy_interval_coverage" "${PROJECT_SOURCE_DIR}/aw907_greedy_interval_coverage/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit" "${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit/output")
-add_subdirectory("${PROJECT_SOURCE_DIR}/aw913_dp_wait_in_line" "${PROJECT_SOURCE_DIR}/aw913_dp_wait_in_line/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw913_greedy_wait_in_line" "${PROJECT_SOURCE_DIR}/aw913_greedy_wait_in_line/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw104_greedy_absolute_sum_min" "${PROJECT_SOURCE_DIR}/aw104_greedy_absolute_sum_min/output")
 
 
