@@ -1,0 +1,12 @@
+ N shops with position A1∼AN, now we need to build a warehouse.
+Decide which location make the distance to each shops overall the shortest.
+
+
+Constraints
+1≤N≤100000,
+0≤Ai≤40000
+Input sample
+4
+6 2 9 1
+Output sample
+12
