@@ -1,0 +1,38 @@
+N x N grid
+
+Have 7 operations
+
+1. 90 degree CC rotate.
+2. 90 degree CC rotate.
+3. 270 degree CC rotate
+4. mirror from left to right
+5. mirror first then do 1 of the rotate operations above.
+6. no changes
+7. can't get the new image from above operations
+
+If only allow to use one of the operations listed 1-6, is it possible to get the new image? if so, print out the number.
+else printout 7.
+
+Input:
+N
+original image
+target image
+
+Output:
+number
+
+constraints:
+
+1≤N≤10
+
+Sample Input:
+3
+@-@
+---
+@@-
+@-@
+@--
+--@
+
+Sample output:
+1

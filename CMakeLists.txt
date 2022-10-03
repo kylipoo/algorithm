@@ -84,5 +84,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw907_greedy_interval_coverage" "${PROJE
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit" "${PROJECT_SOURCE_DIR}/aw148_greedy_huffmantree_merge_fruit/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw913_greedy_wait_in_line" "${PROJECT_SOURCE_DIR}/aw913_greedy_wait_in_line/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw104_greedy_absolute_sum_min" "${PROJECT_SOURCE_DIR}/aw104_greedy_absolute_sum_min/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw125_greedy_circus_cow" "${PROJECT_SOURCE_DIR}/aw125_greedy_circus_cow/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1344_usaco_grid_exchange" "${PROJECT_SOURCE_DIR}/u_aw1344_usaco_grid_exchange/output")
 
 

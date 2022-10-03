@@ -1,0 +1,21 @@
+Farmer John has N cows(1..N), they plan to join the circus.
+They are practising the skill to stack as a tower, each cow has its own weight Wi and Strength Si.
+If one cow can't support all the weight(not include himself) on him minus his strength, that value call risk value.
+The bigger the risk value, the possibility of the cow crash is higher.
+Find out how to arrange the cows to make the risk sum the smallest.
+
+输入格式
+N
+W S
+Risk max
+Constraints:
+1≤N≤50000,
+1≤Wi≤10,000,
+1≤Si≤1,000,000,000
+Input:
+3
+10 3
+2 5
+3 3
+Output:
+2
