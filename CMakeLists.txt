@@ -86,5 +86,8 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw913_greedy_wait_in_line" "${PROJECT_SO
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw104_greedy_absolute_sum_min" "${PROJECT_SOURCE_DIR}/aw104_greedy_absolute_sum_min/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw125_greedy_circus_cow" "${PROJECT_SOURCE_DIR}/aw125_greedy_circus_cow/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1344_usaco_grid_exchange" "${PROJECT_SOURCE_DIR}/u_aw1344_usaco_grid_exchange/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1345_usaco_number_name_cow" "${PROJECT_SOURCE_DIR}/u_aw1345_usaco_number_name_cow/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1346_usaco_palindrome_square" "${PROJECT_SOURCE_DIR}/u_aw1346_usaco_palindrome_square/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1347_usaco_double_palindrome" "${PROJECT_SOURCE_DIR}/u_aw1347_usaco_double_palindrome/output")
 
 
