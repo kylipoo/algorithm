@@ -89,5 +89,8 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1344_usaco_grid_exchange" "${PROJECT
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1345_usaco_number_name_cow" "${PROJECT_SOURCE_DIR}/u_aw1345_usaco_number_name_cow/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1346_usaco_palindrome_square" "${PROJECT_SOURCE_DIR}/u_aw1346_usaco_palindrome_square/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1347_usaco_double_palindrome" "${PROJECT_SOURCE_DIR}/u_aw1347_usaco_double_palindrome/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1348_usaco_greedy_pickmilk" "${PROJECT_SOURCE_DIR}/u_aw1348_usaco_greedy_pickmilk/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1349_usaco_greedy_fixbarn" "${PROJECT_SOURCE_DIR}/u_aw1349_usaco_greedy_fixbarn/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1350_usaco_greedy_password" "${PROJECT_SOURCE_DIR}/u_aw1350_usaco_greedy_password/output")
 
 

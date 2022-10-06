@@ -1,0 +1,40 @@
+number of wood pieces M，barns number S，cows number C，and C code for the barn。
+
+Please find the minimal total length of the wood, to cover all the door with the cows.
+
+input
+M,S,C
+Code of the C cows
+
+Output
+how many doors are covered
+
+constraints
+1≤M≤50,
+1≤S≤200,
+1≤C≤S,
+code of the cow 1∼S。
+
+Sample input:
+4 50 18
+3
+4
+6
+8
+14
+15
+16
+17
+21
+25
+26
+27
+30
+31
+40
+41
+42
+43
+
+Sample output:
+25

@@ -1,0 +1,31 @@
+Given a formula like below:
+
+      * * *
+   x    * *
+    -------
+      * * *         
+    * * *           
+    -------
+    * * * *
+Now giving N number 1∼9, please find the number to replace *, make the formula valid.
+
+The number can be repeated.
+
+How many formula can be made?
+
+Input
+N
+N integers
+
+Output
+number of formulas
+
+Constraints:
+1≤N≤9
+
+Sample Input:
+5
+2 3 4 6 8
+
+Sample output:
+1

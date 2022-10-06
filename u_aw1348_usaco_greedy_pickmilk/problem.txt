@@ -1,0 +1,27 @@
+Milk Daily needs
+Each farmer can provide milk unit price
+The most capacity each farmer can provide
+What is the lowest cost for the company to meet the daily milk requirement.
+
+Input
+n, m, daily milk needs and farmers count
+Pi, Ai farmers unit price and milk capacity
+
+Output
+output: lowest cost
+
+Constraints:
+0≤N≤2×10^6,
+0≤M≤5000,
+0≤Pi≤1000,
+0≤Ai≤2×10^6
+
+Sample input:
+100 5
+5 20
+9 40
+3 10
+8 80
+6 30
+Sample output:
+630
