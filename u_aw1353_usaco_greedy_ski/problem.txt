@@ -1,0 +1,30 @@
+There are N hills, each hill's height is an integer.
+
+To avoid tax, the difference of highest and lowest of the hills can't be over 17.
+To reduce x height of a hill, cost x^2 money.
+Each hill can only change once and the height changes has to be integer.
+
+What is the minimum cost.
+
+Input:
+N
+Height of the hills
+
+Output
+minimal money
+
+constraints:
+1≤N≤1000,
+each height 0∼100
+
+Sample input:
+5
+20
+4
+1
+24
+21
+Sample output:
+18
+Explain
+Increase hill with height 1 with 3 units，Height 24 reduce 3 units
