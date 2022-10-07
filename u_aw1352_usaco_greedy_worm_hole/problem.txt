@@ -1,0 +1,37 @@
+农夫约翰在周末进行高能物理实验的时候发生了一些意外，导致他的农场上出现了 N 个虫洞（N 是偶数）。
+
+Some accident made N work holes in the farm field, N is even number
+
+Each worm-hole on different (x, y) in a 2d grid view
+
+For example if A and B paired connect, then A, B can in and out of one of the side.
+
+If A(1,1) and B(3,1) are connected，Betsy start moving x direction starting from (2,1),
+she will fall into B and get out of A. Then gets into a dead loop.
+
+John knows the positions of each hole and also knows Betsy can only move horizontally right, but
+he doesn't know Betsy's start point. When betsy has a hole in front, she will fall into it.
+
+Now please calculate how many possible ways can make the pair connection that cause the dead loop
+
+Input:
+N number of worm hole
+
+N lines of (x, y)
+
+Output:
+number of ways to cause dead loop
+
+constraints:
+2≤N≤12,
+0≤x,y≤10^9
+
+Sample input:
+4
+0 0
+1 0
+1 1
+0 1
+
+Sample output:
+2
