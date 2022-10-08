@@ -95,5 +95,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1350_usaco_greedy_password" "${PROJE
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1351_usaco_greedy_passcode_lock" "${PROJECT_SOURCE_DIR}/u_aw1351_usaco_greedy_passcode_lock/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1352_usaco_greedy_worm_hole" "${PROJECT_SOURCE_DIR}/u_aw1352_usaco_greedy_worm_hole/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1353_usaco_greedy_ski" "${PROJECT_SOURCE_DIR}/u_aw1353_usaco_greedy_ski/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1354_usaco_arithmetic_sequence" "${PROJECT_SOURCE_DIR}/u_aw1354_usaco_arithmetic_sequence/output")
 
 
