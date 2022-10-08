@@ -1,0 +1,25 @@
+Find a path with the biggest sum
+        7
+      3   8
+    8   1   0
+  2   7   4   4
+4   5   2   6   5
+Input
+n layer
+numbers in each layer
+
+Output
+Maximum sum of the path numbers
+
+Constraints
+1≤n≤500,
+−10000≤numbers in triangle ≤10000
+Sample input
+5
+7
+3 8
+8 1 0 
+2 7 4 4
+4 5 2 6 5
+Sample output
+30

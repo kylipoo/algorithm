@@ -96,5 +96,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1351_usaco_greedy_passcode_lock" "${
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1352_usaco_greedy_worm_hole" "${PROJECT_SOURCE_DIR}/u_aw1352_usaco_greedy_worm_hole/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1353_usaco_greedy_ski" "${PROJECT_SOURCE_DIR}/u_aw1353_usaco_greedy_ski/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1354_usaco_arithmetic_sequence" "${PROJECT_SOURCE_DIR}/u_aw1354_usaco_arithmetic_sequence/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1355_usaco_milk_bucket" "${PROJECT_SOURCE_DIR}/u_aw1355_usaco_milk_bucket/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw898_digital_triangle" "${PROJECT_SOURCE_DIR}/u_aw898_digital_triangle/output")
 
 

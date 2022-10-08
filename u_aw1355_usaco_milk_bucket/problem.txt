@@ -1,0 +1,23 @@
+Three bucket with capacity A,B,C liters.
+
+A, B are initially empty，C is full.
+
+Pouring among all the buckets, find out when A is empty, how much milk in C
+
+Input
+A,B,C。
+
+Output
+共一行，包含若干个整数，表示 C 桶中牛奶存量的所有可能情况，请将这些数字按升序排列。
+
+Constraints:
+1≤A,B,C≤20
+
+Sample input1：
+8 9 10
+Sample output1：
+1 2 8 9 10
+Sample input2：
+2 5 10
+Sample output2：
+5 6 7 8 9 10
