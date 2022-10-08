@@ -1,0 +1,27 @@
+Given a,b ，find all the prime palindrome within [a,b]
+
+Input:
+a,b
+
+Output
+all the prime palindrome in ascending order.
+
+Constraints
+5≤a<b≤10^8
+
+Sample input:
+5 500
+
+Sample output:
+5
+7
+11
+101
+131
+151
+181
+191
+313
+353
+373
+383
