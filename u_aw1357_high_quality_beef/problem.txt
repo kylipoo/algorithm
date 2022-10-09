@@ -1,0 +1,31 @@
+Prime number 7331 is super prime，because remove 1，733 is still prime，73 is also prime，same for 7.
+
+Given a integer N，Find out the super prime number with length N
+
+Input
+N
+
+Output
+All the super primes in ascending order
+
+Constraints:
+1≤N≤8
+Sample Input:
+4
+Sample Output:
+2333
+2339
+2393
+2399
+2939
+3119
+3137
+3733
+3739
+3793
+3797
+5939
+7193
+7331
+7333
+7393

@@ -99,5 +99,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1354_usaco_arithmetic_sequence" "${P
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1355_usaco_milk_bucket" "${PROJECT_SOURCE_DIR}/u_aw1355_usaco_milk_bucket/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw898_digital_triangle" "${PROJECT_SOURCE_DIR}/u_aw898_digital_triangle/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1356_prime_palindrome" "${PROJECT_SOURCE_DIR}/u_aw1356_prime_palindrome/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1357_high_quality_beef" "${PROJECT_SOURCE_DIR}/u_aw1357_high_quality_beef/output")
 
 
