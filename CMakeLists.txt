@@ -101,5 +101,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw898_digital_triangle" "${PROJECT_SOU
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1356_prime_palindrome" "${PROJECT_SOURCE_DIR}/u_aw1356_prime_palindrome/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1357_high_quality_beef" "${PROJECT_SOURCE_DIR}/u_aw1357_high_quality_beef/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1359_castle" "${PROJECT_SOURCE_DIR}/u_aw1359_castle/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1360_fraction_inorder" "${PROJECT_SOURCE_DIR}/u_aw1360_fraction_inorder/output")
 
 

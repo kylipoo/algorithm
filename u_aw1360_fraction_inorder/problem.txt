@@ -1,0 +1,28 @@
+Given an integer N，find out all denominator <= N，value [0,1] simplified fraction, printout in ascending order.
+
+For example, when N=5 all the fractions are:
+
+01,15,14,13,25,12,35,23,34,45,11
+Input:
+N
+
+Output
+All the fractions in ascending order
+
+constraints:
+1≤N≤160
+
+Input:
+5
+Output:
+0/1
+1/5
+1/4
+1/3
+2/5
+1/2
+3/5
+2/3
+3/4
+4/5
+1/1
