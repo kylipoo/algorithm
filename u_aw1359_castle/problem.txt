@@ -1,0 +1,47 @@
+
+ Castle map
+
+     1   2   3   4   5   6   7
+   #############################
+ 1 #   |   #   |   #   |   |   #
+   #####---#####---#---#####---#
+ 2 #   #   |   #   #   #   #   #
+   #---#####---#####---#####---#
+ 3 #   |   |   #   #   #   #   #
+   #---#########---#####---#---#
+ 4 # ->#   |   |   |   |   #   #
+   #############################
+
+#  = Wall     -,|  = No wall
+-> = where remove the wall can get biggest room
+
+Find out how many rooms in the castle, what is the area of the max room.
+Remove which wall can get the largest max area of the room
+
+When there are different ways to remove walls, first remove west side, then south side wall.
+
+If same area but two different walls can reach, take off the north wall.
+
+Input
+M, N, length of horizontal and vertical
+N line, each line has M integers. Each integer means the room situations with walls.
+
+  2
+1|__|4 , 1 is west wall, 2 is north wall, 4 is east wall, 8 is south wall
+  8
+
+Sample Input:
+7 4
+11 6 11 6 3 10 6
+7 9 6 13 5 15 5
+1 10 12 7 13 7 5
+13 11 10 8 10 12 13
+
+Sample Output:
+5 How many rooms
+9 Biggest room's area
+16 After removing the wall the biggest room's area
+4 1 E Which wall is removed
+
+Constraints:
+1≤M,N≤50
