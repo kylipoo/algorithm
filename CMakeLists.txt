@@ -104,5 +104,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1359_castle" "${PROJECT_SOURCE_DIR}/
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1360_fraction_inorder" "${PROJECT_SOURCE_DIR}/u_aw1360_fraction_inorder/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1362_healthy_cow" "${PROJECT_SOURCE_DIR}/u_aw1362_healthy_cow/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1363_xor_numbers" "${PROJECT_SOURCE_DIR}/u_aw1363_xor_numbers/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1364_rome_number" "${PROJECT_SOURCE_DIR}/u_aw1364_rome_number/output")
 
 

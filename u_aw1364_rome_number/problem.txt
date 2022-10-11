@@ -1,31 +1,38 @@
-Given 3 integers N,B,D，find N number which length as B digits code（the code is binary only contains 0 or 1)，
-使得这 N 个编码两两之间的汉明距离都不小于 D。
 
+Rome:   I	V	X	L	C	D	M
+Number:	1	5	10	50	100	500	1000
+I,X,C,M can be combined, but you can not have more than 3 letters.
 
-For example，code 0x554 and codde 0x234 has XOR diff as below:
+For example, III is 3，CCC is 300。
 
-           0x554 = 0101 0101 0100
-           0x234 = 0010 0011 0100
-         不同位:   -XXX -XX- ----
-Since there are 5 different digits，the diff of XOR are 5
+V,L,D can not be together
+
+Usually the letter can be combined as sum like below
+For example，CCLXVIII = 100 + 100 + 50 + 10 + 5 + 1 + 1 + 1 = 268。
+
+Or，IV = 4，IX = 9，XL = 40。
+
+For 39，IXL is wrong； XXXIX is correct.
+
+490: CDXC，not XD；99: XCIX，not IC；990: CMXC，not XM.
+
+90:XC，not LXL.
+
+Given a book with N pages，the page number marked in Rome, in 1∼N，how many times each letter appears.
+
+For example，N=5，the page number is：I，II，III，IV，V. I appears 7 times，V appears 2 times.
 
 Input
-N,B,D
+N
 
 Output
-N line in ascending order
-10 digits
-
-If there are multiple answers, print out the smallest number solution
+Rome number
 
 Constraints:
+1≤N<3500
 
-1≤N≤64,
-1≤B≤8,
-1≤D≤7
-
-Sample Input
-16 7 3
-Sample Output
-0 7 25 30 42 45 51 52 75 76
-82 85 97 102 120 127
+Sample Input:
+5
+Sample Output:
+I 7
+V 2
