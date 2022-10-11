@@ -1,0 +1,23 @@
+Input
+V means there are 1~V vitamin
+cow daily needs for ith vitamin
+G cow food type
+each food contain vitamin
+
+Output
+S(how many type of food), ascending of the food number
+
+Constraints
+1≤V≤25,
+1≤G≤15
+
+Sample input:
+4
+100 200 300 400
+3
+50 50 50 50
+200 300 200 300
+900 150 389 399
+
+Sample output:
+2 1 3

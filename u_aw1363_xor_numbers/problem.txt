@@ -1,0 +1,31 @@
+Given 3 integers N,B,D，find N number which has B digits in binary format
+Each pair of numbers has >=D XOR
+
+
+For example，code 0x554 and codde 0x234 has XOR diff as below:
+
+           0x554 = 0101 0101 0100
+           0x234 = 0010 0011 0100
+         不同位:   -XXX -XX- ----
+Since there are 5 different digits，the diff of XOR are 5
+
+Input
+N,B,D
+
+Output
+N line in ascending order in base 10
+10 digits
+
+If there are multiple answers, print out the smallest number solution
+
+Constraints:
+
+1≤N≤64,
+1≤B≤8,
+1≤D≤7
+
+Sample Input
+16 7 3    (16 numbers, 2^7 digits, >= 3 XOR)
+Sample Output
+0 7 25 30 42 45 51 52 75 76
+82 85 97 102 120 127

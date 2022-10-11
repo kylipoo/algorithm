@@ -102,5 +102,7 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1356_prime_palindrome" "${PROJECT_SO
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1357_high_quality_beef" "${PROJECT_SOURCE_DIR}/u_aw1357_high_quality_beef/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1359_castle" "${PROJECT_SOURCE_DIR}/u_aw1359_castle/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1360_fraction_inorder" "${PROJECT_SOURCE_DIR}/u_aw1360_fraction_inorder/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1362_healthy_cow" "${PROJECT_SOURCE_DIR}/u_aw1362_healthy_cow/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1363_xor_numbers" "${PROJECT_SOURCE_DIR}/u_aw1363_xor_numbers/output")
 
 
