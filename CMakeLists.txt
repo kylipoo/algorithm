@@ -106,5 +106,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1362_healthy_cow" "${PROJECT_SOURCE_
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1363_xor_numbers" "${PROJECT_SOURCE_DIR}/u_aw1363_xor_numbers/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1364_rome_number" "${PROJECT_SOURCE_DIR}/u_aw1364_rome_number/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1365_sum_subset" "${PROJECT_SOURCE_DIR}/u_aw1365_sum_subset/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/u_aw1366_number_cycle" "${PROJECT_SOURCE_DIR}/u_aw1366_number_cycle/output")
 
 

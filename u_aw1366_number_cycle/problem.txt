@@ -1,0 +1,19 @@
+循环数是一种没有重复数字且不含 0 并具有一些有趣性质的整数。
+Some kind of integer who doesn't contain 0 and all unique digits.
+
+For example 81362:
+Start from 8, walk 8 steps right, stopped at 6, walk 6 steps, stopped at 2, ... eventually it returns to 8.
+
+Input
+M
+
+Output
+The first cycle number that is bigger than M
+
+Constraints
+1≤M≤10^7
+
+Sample input:
+81361
+Sample output:
+81362
