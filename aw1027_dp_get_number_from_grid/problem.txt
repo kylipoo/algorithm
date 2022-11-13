@@ -1,0 +1,31 @@
+N×N Matrix，some has numbers and some are 0
+
+Mike starts from upper left A, either go right or go down till the right corner.
+
+He can take the number from the grid then the grid number turns to 0
+
+He walks twice from A to B, figure out the biggest number he can get
+
+Input format
+N
+r c number
+0 0 0 means finish
+
+Output format
+the largest sum of the 2 paths
+
+Constraints:
+N≤10
+Sample input:
+8
+2 3 13
+2 6 6
+3 5 7
+4 4 14
+5 2 21
+5 6 4
+6 3 15
+7 2 14
+0 0 0
+Sample output:
+67

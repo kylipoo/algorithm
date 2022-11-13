@@ -1,0 +1,35 @@
+A N*M grid
+
+"W" means water，"." means land
+
+Find out how many lakes are there
+
+if W connect with up, down, left right, right up, left down, left up, right down then it consider as part of the same lake
+
+Find out how many lakes are there in the grid
+
+Input format
+n, m
+n*m grid with either "W" or "."
+
+Output:
+number of lakes
+
+Constraints:
+1≤N,M≤1000
+
+Sample input
+10 12
+W........WW.
+.WWW.....WWW
+....WW...WW.
+.........WW.
+.........W..
+..W......W..
+.W.W.....WW.
+W.W.W.....W.
+.W.W......W.
+..W.......W.
+
+Sample output：
+3

@@ -1,4 +1,3 @@
-循环数是一种没有重复数字且不含 0 并具有一些有趣性质的整数。
 Some kind of integer who doesn't contain 0 and all unique digits.
 
 For example 81362:

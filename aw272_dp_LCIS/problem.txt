@@ -1,0 +1,19 @@
+Array A and B length are <= 3000。
+
+Input format
+N，means the length of A，B.
+array A
+array B
+
+Output format
+number of LCIS length
+
+Constraints
+1≤N≤3000
+
+Input
+4
+2 2 1 3
+2 1 2 3
+Output
+2

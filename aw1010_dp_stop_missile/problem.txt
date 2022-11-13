@@ -1,0 +1,16 @@
+Device to stopped the missile
+Input format
+The missle height
+
+Output format
+how many missle can be stopped by one device most
+how many devices needed to stop all
+
+constraints
+height <= 30000，missiles less than 1000。
+
+Sample input:
+389 207 155 300 299 170 158 65
+Sample output:
+6
+2

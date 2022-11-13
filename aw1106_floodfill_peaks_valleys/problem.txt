@@ -1,0 +1,42 @@
+Mike likes hiking in the mountain and to plan for his trip he needs to know how many peaks and valleys
+
+Given a n*n grid map, each grid is (i, j) and marked height as w(i, j)
+
+The neighbor grid of (i,j) are (i−1,j−1),(i−1,j),(i−1,j+1),(i,j−1),(i,j+1),(i+1,j−1),(i+1,j),(i+1,j+1).
+
+We consider a set S as valley when it has below conditions
+S all grids has same height
+S all grids are connected
+if ws>ws′（peak），or ws<ws′（valley).
+a set can be both peak or valley, it can also be neither peak nor valley
+
+Input
+n, the size of map
+nXn shows the height of the grid
+
+Output
+count of peak count of valley
+
+Constraints:
+1≤n≤1000,
+0≤w≤10^9
+
+Sample input 1:
+5
+8 8 8 7 7
+7 7 8 8 7
+7 7 7 7 7
+7 8 8 7 8
+7 8 8 8 8
+Sample output 1:
+2 1
+
+Sample input 2:
+5
+5 7 8 3 1
+5 5 7 6 6
+6 6 6 2 8
+5 7 2 5 8
+7 1 0 1 7
+Sample output 2:
+3 3

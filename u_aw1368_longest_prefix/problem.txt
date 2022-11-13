@@ -1,0 +1,24 @@
+String S ABABACABAAB can be made by set P {A,AB,BA,CA,BBC}.
+
+The first K characters of S call the prefix of S with length K.
+
+Given a set P and a string S, please find out the longest prefix of S can be made by set P.
+
+Input
+P
+S
+
+Output
+length of the prefix
+
+constraints
+P has <=200 components，each component has less than 10 elements.
+S lenth is less than  2×10^5.
+
+Sample input:
+A AB BA CA BBC
+.
+ABABACABAABC
+
+Sample output:
+11

@@ -1,0 +1,42 @@
+    1   2   3   4   5   6   7  
+   #############################
+ 1 #   |   #   |   #   |   |   #
+   #####---#####---#---#####---#
+ 2 #   #   |   #   #   #   #   #
+   #---#####---#####---#####---#
+ 3 #   |   |   #   #   #   #   #
+   #---#########---#####---#---#
+ 4 #   #   |   |   |   |   #   #
+   #############################
+           (图 1)
+
+   #  = Wall   
+   |  = No wall
+   -  = No wall
+
+ Find out how many rooms and the biggest room area
+
+Input
+m, n
+Grid of P numbers
+1 west wall，2 north wall，4 east wall，8 south wall，P is the sum of all the directions
+
+For example if P is 3，then 3 = 1 + 2，so it contains west wall and north wall
+
+Output
+count of the rooms
+area of the largest room
+
+Constraints:
+1≤m,n≤50,
+0≤P≤15
+
+Sample input:
+4 7 
+11 6 11 6 3 10 6 
+7 9 6 13 5 15 5 
+1 10 12 7 13 7 5 
+13 11 10 8 10 12 13 
+Sample output:
+5
+9

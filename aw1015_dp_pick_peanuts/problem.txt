@@ -1,0 +1,29 @@
+Hello Kitty walks through a field as a grid matrix, each grid intersection has some peanuts
+She starts from upper left corner and end at right bottom corner.
+She can only walk towards east or south
+How many peanuts can she pick up the most.
+
+Input
+T means how many sets of data
+R C rows and columns of the matrix
+
+Output
+max peanuts kitty can collect
+
+Constraints
+1≤T≤100,
+1≤R,C≤100,
+0≤M≤1000
+
+Sample input:
+2
+2 2
+1 1
+3 4
+2 3
+2 3 4
+1 6 5
+
+Sample output:
+8
+16

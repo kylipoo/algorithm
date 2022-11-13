@@ -1,0 +1,21 @@
+A sits at the upper left corner, B sits at the bottom right corner.
+A passes notes to B through ppl, each ppl has different "good heart value", then B passes notes back to A. each ppl can only
+pass the notes once. Print out the max value of A->B then B->A.
+
+Input format
+mXn
+i, j, good heart number
+
+Sample output:
+maximum number
+
+Constraints
+1≤n,m≤50
+
+Sample Input:
+3 3
+0 3 9
+2 8 5
+5 7 0
+Sample Output:
+34

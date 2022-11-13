@@ -1,0 +1,28 @@
+Mike tries to cross NxN matrix from upper left corner to bottom right corner.
+
+The total steps need to be no more than 2N−1.
+
+He needs to pay for each step
+
+what is the minimal cost.
+
+Sample input
+N
+cost of each step
+
+Sample output
+minimal cost
+
+constraints:
+1≤N≤100
+
+Sample input:
+5
+1  4  6  8  10
+2  5  7  15 17
+6  8  9  18 20
+10 11 12 19 21
+20 23 25 29 33
+
+Sample output:
+109

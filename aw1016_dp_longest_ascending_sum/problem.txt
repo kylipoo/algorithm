@@ -1,0 +1,16 @@
+Given (a1,a2,…,aN)，we can get ascending subarray (ai1,ai2,…,aiK)，which 1≤i1<i2<…<iK≤N。
+
+For example (1,7,3,5,9,4,8)，has ascending subarray like (1,7),(3,4,8)
+
+The maximum sum are (1,3,5,9)
+
+Find the maximum sum for ascending array
+
+constraints:
+1≤N≤1000
+
+Sample input:
+7
+1 7 3 5 9 4 8
+Sample output:
+18

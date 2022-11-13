@@ -1,0 +1,14 @@
+N kids line up，take out (N−K) kids，then the rest of the kids can form a line
+
+T1<…<Ti>Ti+1>…>TK(1≤i≤K)
+print out at least how many kids need to be taken out
+
+Constraints:
+2≤N≤100,
+130≤Ti≤230
+Sample input:
+8
+186 186 150 200 160 130 197 220
+
+Sample output:
+4

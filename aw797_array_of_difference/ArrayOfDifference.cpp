@@ -16,9 +16,14 @@ int main() {
     for(int i=1; i<=n; i++) {
         scanf("%d", &a[i]);
     }
+
     for(int i=1; i<=n; i++) {
         insert(i, i, a[i]);
     }
+    for(int i=1; i<=n; i++) {
+        cout << b[i] << " ";
+    }
+    cout << endl;
     while(m--) {
         int l, r, c;
         scanf("%d%d%d", &l, &r, &c);

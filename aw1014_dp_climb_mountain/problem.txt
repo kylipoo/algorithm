@@ -1,0 +1,13 @@
+N mountain, with ascending code of the mountain
+
+They don't climb the same height mountain, if they go down of the height, they won't climb up
+
+Find out the most mountain visit count
+
+Constraints
+2≤N≤1000
+Sample input:
+8
+186 186 150 200 160 130 197 220
+Sample output:
+4
