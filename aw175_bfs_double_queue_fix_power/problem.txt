@@ -1,0 +1,23 @@
+Fix the power line so it can walk from left begin to right bottom end
+
+Test number
+row column
+\\/\\
+\\///
+/\\\\
+
+Output:
+least spin times
+
+If there is no way to connect print NO SOLUTION。
+Constraints:
+1≤R,C≤500,
+1≤T≤5
+Sample input:
+1
+3 5
+\\/\\
+\\///
+/\\\\
+Sample output:
+1

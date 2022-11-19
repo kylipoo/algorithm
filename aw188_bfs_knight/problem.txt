@@ -1,0 +1,54 @@
+The knight "K" is acting like the knight in the chess. It can jump over anything but can't land on *
+The knight is trying to reach his horse "H", please find out the shortest steps
+
+             11 | . . . . . . . . . .
+             10 | . . . . * . . . . . 
+              9 | . . . . . . . . . . 
+              8 | . . . * . * . . . . 
+              7 | . . . . . . . * . . 
+              6 | . . * . . * . . . H 
+              5 | * . . . . . . . . . 
+              4 | . . . * . . . * . . 
+              3 | . K . . . . . . . . 
+              2 | . . . * . . . . . * 
+              1 | . . * . . . . * . . 
+              0 ----------------------
+                                    1 
+                0 1 2 3 4 5 6 7 8 9 0 
+The Knight can follow A,B,C,D… and the steps are 5（There are other possible path）：
+
+             11 | . . . . . . . . . .
+             10 | . . . . * . . . . .
+              9 | . . . . . . . . . .
+              8 | . . . * . * . . . .
+              7 | . . . . . . . * . .
+              6 | . . * . . * . . . F<
+              5 | * . B . . . . . . .
+              4 | . . . * C . . * E .
+              3 | .>A . . . . D . . .
+              2 | . . . * . . . . . *
+              1 | . . * . . . . * . .
+              0 ----------------------
+                                    1
+                0 1 2 3 4 5 6 7 8 9 0
+
+
+Constraints
+1≤R,C≤150
+
+Sample input:
+10 11
+..........
+....*.....
+..........
+...*.*....
+.......*..
+..*..*...H
+*.........
+...*...*..
+.K........
+...*.....*
+..*....*..
+
+Sample output:
+5

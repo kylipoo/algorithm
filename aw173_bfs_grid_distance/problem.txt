@@ -1,0 +1,22 @@
+Given N row M column 01 grid A，find out each 0 to the nearest 1's distance
+
+Input
+N, M
+01 grid
+
+Output
+grid, each grid store the distance to the nearest 1
+
+Constraints:
+1≤N,M≤1000
+
+Sample input:
+3 4
+0001
+0011
+0110
+
+Sample output:
+3 2 1 0
+2 1 0 0
+1 0 0 1

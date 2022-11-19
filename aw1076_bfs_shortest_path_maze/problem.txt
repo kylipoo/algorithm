@@ -1,0 +1,48 @@
+Given nxn grid as below:
+
+int maze[5][5] = {
+
+0, 1, 0, 0, 0,
+
+0, 1, 0, 1, 0,
+
+0, 0, 0, 0, 0,
+
+0, 1, 1, 1, 0,
+
+0, 0, 0, 1, 0,
+
+};
+It is a maze, 1 is the wall, 0 is the path. You can only walk vertically or horizontally.
+Find out from left upper conner to right bottom conner's shortest path.
+
+It is guaranteed to have at least one valid path.
+
+Input
+n
+nxn grid with 0 or 1
+
+Output
+output the path from (0,0) to (n-1, n-1)
+
+Constraints:
+
+0≤n≤1000
+
+Sample input:
+5
+0 1 0 0 0
+0 1 0 1 0
+0 0 0 0 0
+0 1 1 1 0
+0 0 0 1 0
+Sample output:
+0 0
+1 0
+2 0
+2 1
+2 2
+2 3
+2 4
+3 4
+4 4

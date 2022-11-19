@@ -1,0 +1,23 @@
+Farmer knows the cows position and wants to catch it
+
+They are on a x-axis, farmer is at N and cow is at K
+
+Farmer can move to x-1 or x+1 or 2x, all cost him 1 minute
+
+cow is not moving
+
+How long it will take farmer to catch the cow?
+
+Input:
+N K
+
+Output:
+time
+
+Constraints:
+0≤N,K≤105
+
+Sample input:
+5 17
+Sample output:
+4

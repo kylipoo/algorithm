@@ -123,5 +123,9 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw272_dp_LCIS" "${PROJECT_SOURCE_DIR}/aw
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw1097_floodfill_number_of_lakes" "${PROJECT_SOURCE_DIR}/aw1097_floodfill_number_of_lakes/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw1098_floodfill_castle_rooms" "${PROJECT_SOURCE_DIR}/aw1098_floodfill_castle_rooms/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw1106_floodfill_peaks_valleys" "${PROJECT_SOURCE_DIR}/aw1106_floodfill_peaks_valleys/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw1076_bfs_shortest_path_maze" "${PROJECT_SOURCE_DIR}/aw1076_bfs_shortest_path_maze/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw1100_bfs_chasecow" "${PROJECT_SOURCE_DIR}/aw1100_bfs_chasecow/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw173_bfs_grid_distance" "${PROJECT_SOURCE_DIR}/aw173_bfs_grid_distance/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw1107_bfs_rubik" "${PROJECT_SOURCE_DIR}/aw1107_bfs_rubik/output")
 
 
