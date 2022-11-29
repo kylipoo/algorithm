@@ -106,7 +106,7 @@ int main() {
     cout << step << endl;
     string res;
     while(start!=end) {
-        res += pre[end].x;
+        res += pre[end].x;u
         end = pre[end].y;
     }
     reverse(res.begin(), res.end());

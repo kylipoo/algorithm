@@ -1,0 +1,23 @@
+Given N nodes（number 1,2…N），M edge graph with direction，Find the kth shortest path from start S to end T.
+
+Input
+N M
+A B L, (A->B weight is L)
+A T K
+
+Output
+a number means the distance of kth shortest path. if it doesn't exist return -1
+
+Constraints:
+1≤S,T≤N≤1000,
+0≤M≤10^4,
+1≤K≤1000,
+1≤L≤100
+
+Sample input
+2 2
+1 2 5
+2 1 4
+1 2 2
+Sample output：
+14

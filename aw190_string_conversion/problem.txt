@@ -1,0 +1,32 @@
+There are string A, B and a set of conversion rules（at most 6 rules）:
+
+A1→B1
+A2→B2
+…
+
+For example：A＝abcd B＝xyz
+
+The rule is
+
+abc → xu ud → y y → yz
+
+abcd → xud → xy → xyz
+
+Total 3 conversions make A becomes B.
+
+Input format
+A B
+A1 B1
+A2 B2
+… …
+
+Output format
+if within 10 steps can change A to B, print out the least change steps, otherwise NO ANSWER!
+
+Sample input:
+abcd xyz
+abc xu
+ud y
+y yz
+Sample output:
+3

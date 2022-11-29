@@ -127,5 +127,6 @@ add_subdirectory("${PROJECT_SOURCE_DIR}/aw1076_bfs_shortest_path_maze" "${PROJEC
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw1100_bfs_chasecow" "${PROJECT_SOURCE_DIR}/aw1100_bfs_chasecow/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw173_bfs_grid_distance" "${PROJECT_SOURCE_DIR}/aw173_bfs_grid_distance/output")
 add_subdirectory("${PROJECT_SOURCE_DIR}/aw1107_bfs_rubik" "${PROJECT_SOURCE_DIR}/aw1107_bfs_rubik/output")
+add_subdirectory("${PROJECT_SOURCE_DIR}/aw1112_dfs_maze" "${PROJECT_SOURCE_DIR}/aw1112_dfs_maze/output")
 
 

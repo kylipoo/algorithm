@@ -1,0 +1,25 @@
+A n*n maze with '.' and '#', '.' is the path and '#' is the block.
+Find out if from A to B is possible
+
+Constraints:
+1≤n≤100
+
+Sample input
+2
+3
+.##
+..#
+#..
+0 0 2 2
+5
+.....
+###.#
+..#..
+###..
+...#.
+0 0 4 0
+
+Sample output:
+YES
+NO
+

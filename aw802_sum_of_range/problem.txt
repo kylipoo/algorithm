@@ -1,4 +1,4 @@
-There is a very long array, each position is 0.
+There is a very long array along the x-axis, the value on each position is 0.
 Now we will do n operations, each operation will add c on one of the positions
 Then we will do m queries. each query contains l and r, you need to find out the sum if [l, r]
 Input
